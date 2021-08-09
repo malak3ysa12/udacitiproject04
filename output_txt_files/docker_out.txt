@@ -12,7 +12,7 @@
 [20.35373177134412]
 172.17.0.1 - - [27/Jul/2021 16:01:08] "POST /predict HTTP/1.1" 200 -
 
-(.devops) ec2-user:~/environment/udacitiproject04 (master) $ ./make_prediction.sh
+(.devops) ec2-user:~/environment/malak3ysa12/udacitiproject04 (master) $ ./make_prediction.sh
 Port: 8000
 {
   "prediction": [
