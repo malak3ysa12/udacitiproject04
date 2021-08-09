@@ -5,7 +5,7 @@ Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 Handling connection for 8000
 
-(.devops) ec2-user:~/environment/UdacityNDProject-4 (master) $ ./make_prediction.sh
+(.devops) ec2-user:~/environment/malak3ysa12/udacitiproject04 (main) $ ./make_prediction.sh
 Port: 8000
 {
   "prediction": [
